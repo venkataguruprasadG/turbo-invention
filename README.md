@@ -1,2 +1,2 @@
 "# turbo-invention" 
-This Repository will contain the Cloned Amaxon Website.
+This Repository will contain the Cloned Amazon Website.
